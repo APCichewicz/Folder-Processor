@@ -1,2 +1,2 @@
 # Folder-Processor
-A simple gui tool to process folders from one location to another
+A simple gui tool to display the contents of a directory, allow those contents to be searched, and to then sort the selections into a destination directory structure according to the source file contained year and then alphabetically by the first letter. This was used to move a selection of 800 files for which authorization was given. the naming convention was not standardized except for the year being in the name. as such the files needed to be individually searched for and this was done with basic regex.
